@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Eric Jones
 ![](https://komarev.com/ghpvc/?username=ejones29)
 <!--
 **ejones29/ejones29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
