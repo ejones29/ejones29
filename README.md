@@ -1,7 +1,10 @@
-<h1 align="center">👋 Hi, I'm Eric — Senior Frontend Engineer</h1>
+<h1 align="center">👋 Hi, I'm Eric Jones </h1>
 
 <p align="center">
   Senior Frontend Engineer with a focus on shaping frontend architecture, building design systems, and elevating product quality. I blend strong UI engineering fundamentals with a keen eye for interaction design, performance, and developer experience.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ericwilliamjones29" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -16,16 +19,15 @@
 
 ---
 
-## 🛠️ Technologies & Tools
-
-**Frontend:**  
-React · JavaScript/TypeScript · GraphQL · Remix · Next.js · Gatsby · Vite · Tailwind · Storybook · TanStack Query/Router  
-  
-**Backend / Infra:**  
-Node · Fastify · Cloudflare Workers · Vercel · Netlify · AWS 
-  
-**Systems & Tooling:**  
-Design Systems · UI Architecture · GitHub Actions · CI/CD · Automated Testing · Performance Budgets · Accessibility Compliance Workflows
+## 🛠️ Tech Stack & Tools
+```
+Frontend:  JavaScript/TypeScript, React, Remix, Gatsby, Next.js, GraphQL, Tailwind CSS
+Backend:   Node.js, Fasitify
+Infra:     Vercel, Netlify, AWS, GitHub Actions, Cloudflare Workers
+CMS:       Sanity, Contentful, Shopify, Prismic
+Testing:   Vitetest, Jest, Cypress, Playwright
+Design:    Storybook, Figma
+```
 
 **Domains I've Worked In:**  
 - Ordering & checkout experiences  
