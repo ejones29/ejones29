@@ -74,4 +74,5 @@ A fundamentals project demonstrating clean vanilla JavaScript — always appreci
 
 <p align="center"><em>“I believe in building frontend systems that scale — for teams, for products, and for the people who use them.”</em></p>
 
+
 ![](https://komarev.com/ghpvc/?username=ejones29)
