@@ -74,6 +74,4 @@ A fundamentals project demonstrating clean vanilla JavaScript — always appreci
 
 <p align="center"><em>“I believe in building frontend systems that scale — for teams, for products, and for the people who use them.”</em></p>
 
-<p align="center">
-  [!(https://github-readme-stats.vercel.app/api?username=ejones29&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+![](https://komarev.com/ghpvc/?username=ejones29)
