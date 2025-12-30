@@ -39,6 +39,9 @@ Design:    Storybook, Figma
 
 ## 📌 Featured Projects
 
+### 📝 Crate
+A wiki-style personal knowledge system designed for ideas worth keeping — written once, refined over time. Full-stack Next.js app including AI article summarization.
+
 ### ✨ Funky Chicken Wing Shack  
 A stylized, component-driven ordering UI built with React/Gatsby. Emphasizes reusable components, sliders, accessible modals, and animation flair.
 
